@@ -9,10 +9,8 @@
 ## Installation
 
 ```
-$ brew tap pasonatquila/salesforce
+$ brew tap NickMorozov/salesforce
 $ brew cask install dataloader
-$ brew install ant-salesforce
-$ brew install force
 ```
 
 ## License
